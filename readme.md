@@ -1,4 +1,6 @@
-This repository contains skeleton ground-truth of DRIVE[1,2] and GUFI[3] datasets for the paper 'The Relationship Between Curvilinear Structure Enhancement and Ridge Detection Approaches' by Haifa F. Alhasson, Chris Willcocks, Shuaa S. Alharbi, Adetayo Kasim and Boguslaw Obara.
+This repository contains skeleton ground-truth of DRIVE[1,2] and GUFI[3] datasets for the paper:
+'The Relationship Between Curvilinear Structure Enhancement and Ridge Detection Approaches' 
+by Haifa F. Alhasson, Chris Willcocks, Shuaa S. Alharbi, Adetayo Kasim and Boguslaw Obara.
 
 References: 
 
